@@ -1,0 +1,6 @@
+{
+  "name": "PicklePlay",
+  "description": "Complete pickleball court reservation, open play matchmaking, tournament, and facility management app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

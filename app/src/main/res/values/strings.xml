@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PicklePlay</string>
+    <string name="find_your_court">Find your court</string>
+    <string name="search_courts_hint">Search courts, city, or amenities…</string>
+    <string name="book_a_court">Book a Court</string>
+    <string name="confirm_reservation">Confirm Reservation</string>
+    <string name="booking_confirmed">BOOKING CONFIRMED ✓</string>
+    <string name="add_to_calendar">Add to Calendar</string>
+    <string name="join_game">JOIN GAME</string>
+    <string name="submit_score">Submit Score</string>
+    <string name="check_in">CHECK IN</string>
+    <string name="valid_booking">✓ VALID BOOKING</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_courts">Courts</string>
+    <string name="tab_games">Games</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_admin">Admin</string>
+</resources>
